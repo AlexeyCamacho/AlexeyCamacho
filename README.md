@@ -1,6 +1,6 @@
 - Hi, I’m @AlexeyCamacho
 - I’m interested in cars, electronics and programming.
-- Now I am studying at Samara University at the Faculty of Mathematics.
+- I have completed my studies at Samara University at the Faculty of Mathematics.
 
 TECHNOLOGIES:
 
